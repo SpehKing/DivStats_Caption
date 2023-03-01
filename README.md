@@ -1,5 +1,5 @@
 # DivStats_Caption
-This code DivStats will compute Div1 and Div 2 and mBLEU for caption diversity evaluation. (to solve this [issue](https://github.com/rakshithShetty/captionGAN/issues/5)). 
+This code DivStats will compute Div-1 and Div-2 and mBLEU for caption diversity evaluation. (to solve this [issue](https://github.com/rakshithShetty/captionGAN/issues/5)). 
 
 Original Code from https://github.com/rakshithShetty/captionGAN
 
