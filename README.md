@@ -12,7 +12,7 @@ conda activate DivStats
 Compute  Div1, Div2 and mBLEU on the standard COCO-Captions 5K “Karpathy” test split.
 
 
-The DivStats is computed with respect to the greedy and best beam search 
+Here ``sample.json`` , the DivStats of the candidate captions are computed with respect to the greedy and best beam search 
 
 ```
  python computeDivStats.py  sample.json
