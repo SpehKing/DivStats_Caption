@@ -3,11 +3,11 @@ import numpy as np
 import argparse
 from imagernn.utils import compute_div_n, compute_global_div_n
 
-#from eval.mseval.pycocoevalcap.meteor.meteor import Meteor
-##from eval.mseval.pycocoevalcap.bleu.bleu import Bleu
-#from eval.mseval.pycocoevalcap.rouge.rouge import Rouge
-#from eval.mseval.pycocoevalcap.cider.cider import Cider
-#from eval.mseval.pycocoevalcap.tokenizer.ptbtokenizer import PTBTokenizer
+from eval.mseval.pycocoevalcap.meteor.meteor import Meteor
+from eval.mseval.pycocoevalcap.bleu.bleu import Bleu
+from eval.mseval.pycocoevalcap.rouge.rouge import Rouge
+from eval.mseval.pycocoevalcap.cider.cider import Cider
+from eval.mseval.pycocoevalcap.tokenizer.ptbtokenizer import PTBTokenizer
 
 def main(params):
 
