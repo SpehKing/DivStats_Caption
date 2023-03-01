@@ -21,7 +21,7 @@ Here ``sample.json`` , the DivStats of the candidate captions are computed with 
  ```
   python computeDivStats.py  sample.json
  ```
-Also, we could compute the Div against the 5-humans ref (5K “Karpathy”)
+Also, we could compute the Div against the 5-humans ref (5K “Karpathy”), here an example with SoTA image caption system [BLIP](https://arxiv.org/abs/2201.12086)
 
 ```
 python computeDivStats.py BLIP_ViT_Div_5_humans_ref.json
