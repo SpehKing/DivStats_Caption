@@ -1,7 +1,8 @@
 # DivStats_Caption
-DivStats Div1 and Div 2 and mBLEU for caption diversity evaluation
+This code DivStats will compute Div1 and Div 2 and mBLEU for caption diversity evaluation. (to solve this [issue](https://github.com/rakshithShetty/captionGAN/issues/5)). 
 
-Code from https://github.com/rakshithShetty/captionGAN
+Original Code from https://github.com/rakshithShetty/captionGAN
+
 
 ```
 conda create -n DivStats python=2.7 anaconda
